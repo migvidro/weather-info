@@ -17,10 +17,7 @@ A simple Node.js application that provides real-time weather information for any
 
 ### Prerequisites  
 - Node.js installed (v14+ recommended).  
-- An OpenWeatherMap API key (get it [here](https://openweathermap.org/)).  
-
-### Installation  
-1. Clone the repository
+- An OpenWeatherMap API key (get it [here](https://openweathermap.org/)).
    
 ## License 📜  
 This project is licensed under the MIT License.  
